@@ -1,16 +1,22 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Karthi</h1>
+<h3 align="center">💻 Front-End Developer | 📊 Data Analyst | ⚡ Tech Enthusiast</h3>
 
-<!--
-**karthi0409/karthi0409** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Front-End+Developer;Data+Visualization+Enthusiast;Exploring+Electron.js;Learning+TypeScript+%26+Firebase;Linux+%26+Python+Fan" />
+</p>
 
-Here are some ideas to get you started:
+### 👨‍💻 About Me
+- 🌱 Learning **TypeScript, AI tools, Firebase**
+- 🖥️ Building **Electron.js** apps
+- 📖 Leveling up **Python** (basic → advanced)
+- 🐧 Practicing **Linux/Ubuntu CLI**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Projects
+- 📊 **Data Visualization Dashboard** — Expenses, billing, inventory (HTML, CSS, Tailwind)
+- 💻 **Electron Desktop App (In Progress)** — Cross-platform desktop software
+
+### 🛠️ Skills
+JavaScript • C • Java • Python • HTML • CSS • React • TailwindCSS • TypeScript • Firebase • Cloudinary • Electron • Linux
+
+### 📫 Connect
+[LinkedIn](https://www.linkedin.com/in/<your-handle>/) • [GitHub](https://github.com/<your-username>)
