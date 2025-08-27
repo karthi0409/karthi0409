@@ -1,8 +1,8 @@
-<h1 align="center">Hi 👋, I'm Karthi</h1>
-<h3 align="center">💻 Front-End Developer | 📊 Data Analyst | ⚡ Tech Enthusiast</h3>
+<h1 align="center">Karthi - Portfolio</h1>
+<h3 align="center">Front-End Developer | Data Analyst | Tech Enthusiast</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Front-End+Developer;Data+Analytics+Explorer;Building+Scalable+Applications;Learning+AI+Tools+%26+Firebase;Passionate+about+Linux+%26+Python" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Front-End+Developer;Data+Analytics+Explorer;Building+Scalable+Applications;Exploring+AI+Tools+%26+Firebase;Passionate+about+Linux+%26+Python" alt="Typing SVG" />
 </p>
 
 ---
@@ -18,6 +18,8 @@
 ### 🚀 Projects I’ve Worked On
 - 📊 **Data Visualization Dashboard** – Expense tracking, billing, and inventory system (HTML, CSS, Tailwind CSS)  
 - 💻 **Electron Desktop App (In Progress)** – Cross-platform desktop application for smooth user experience  
+- 🍴 **Restaurant Chatbot System** – A Flask-based ordering chatbot with multiple payment gateways (GPay, PhonePe, Paytm, UPI, Card, Cash) integrated with Kitchen Display System (KDS).  
+- ✅ **Smart Task Manager** – Task management app built with Flask, HTML, and CSS for easy tracking, scheduling, and productivity optimization.  
 - 📈 **Interactive Data Reports** – Built with **Power BI & Tableau** to provide insights on trends and performance  
 
 ---
